@@ -1,0 +1,4 @@
+import streamlit as st
+
+st.title("OSINT Tool Dashboard")
+st.write("システムは正常に稼働しています。")
